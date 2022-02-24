@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3815,
-    "timeDay": 3815,
-    "timeWeek": 3815,
-    "timeMonth": 3815,
-    "timeYear": 3815,
+    "time": 3064,
+    "timeDay": 3064,
+    "timeWeek": 3064,
+    "timeMonth": 3064,
+    "timeYear": 3064,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/so.100cc.fun",
     "slug": "google-image",
     "status": "down",
-    "uptime": "33.96%",
-    "uptimeDay": "33.96%",
-    "uptimeWeek": "33.96%",
-    "uptimeMonth": "33.96%",
-    "uptimeYear": "33.96%",
+    "uptime": "30.49%",
+    "uptimeDay": "30.49%",
+    "uptimeWeek": "30.49%",
+    "uptimeMonth": "30.49%",
+    "uptimeYear": "30.49%",
     "time": 687,
     "timeDay": 687,
     "timeWeek": 687,
     "timeMonth": 687,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2022-02-24": 60,
+      "2022-02-24": 197,
       "2022-02-23": 733
     }
   },
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 842,
-    "timeDay": 842,
-    "timeWeek": 842,
-    "timeMonth": 842,
-    "timeYear": 842,
+    "time": 824,
+    "timeDay": 824,
+    "timeWeek": 824,
+    "timeMonth": 824,
+    "timeYear": 824,
     "dailyMinutesDown": {}
   }
 ]
