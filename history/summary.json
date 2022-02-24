@@ -22,18 +22,20 @@
     "url": "https://laisou.herokuapp.com",
     "icon": "https://favicons.githubusercontent.com/laisou.herokuapp.com",
     "slug": "whoogle",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 2568,
     "timeDay": 4781,
     "timeWeek": 2568,
     "timeMonth": 2568,
     "timeYear": 2568,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-24": 1
+    }
   },
   {
     "name": "Google image",
@@ -41,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/so.100cc.fun",
     "slug": "google-image",
     "status": "down",
-    "uptime": "19.16%",
+    "uptime": "18.99%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "19.16%",
-    "uptimeMonth": "19.16%",
-    "uptimeYear": "19.16%",
+    "uptimeWeek": "18.99%",
+    "uptimeMonth": "18.99%",
+    "uptimeYear": "18.99%",
     "time": 687,
     "timeDay": 0,
     "timeWeek": 687,
     "timeMonth": 687,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2022-02-24": 988,
+      "2022-02-24": 1007,
       "2022-02-23": 733
     }
   },
