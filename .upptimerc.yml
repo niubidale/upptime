@@ -38,3 +38,4 @@ workflowSchedule:
   updateTemplate: "0 16 * * *"
   updates: "0 19 * * *"
   uptime: "*/20 1-17 * * *"
+
