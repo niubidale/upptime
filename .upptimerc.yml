@@ -8,7 +8,7 @@ sites:
   - name: Whoogle
     url: https://laisou.herokuapp.com
   - name: Whoogle CDN
-    url: https://laisou.laisou.lyno.workers.dev
+    url: https://laisou.lyno.workers.dev
   - name: Google image
     url: http://so.100cc.fun
   - name: Google image CDN
