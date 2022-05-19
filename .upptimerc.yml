@@ -5,10 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Whoogle
+  - name: Whoogle-heroku
     url: https://laisou.herokuapp.com
+  - name: Whoogle
+    url: http://152.70.95.232:2095
   - name: Whoogle CDN
-    url: https://laisou.lyno.workers.dev
+    url: https://s.100cc.fun
   - name: Google image
     url: http://so.100cc.fun
   - name: Google image CDN
