@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 64,
-    "timeWeek": 86,
-    "timeMonth": 109,
+    "timeDay": 183,
+    "timeWeek": 85,
+    "timeMonth": 104,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2023-07-31": 20
@@ -25,18 +25,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/laisou.herokuapp.com.ico",
     "slug": "whoogle-heroku",
     "status": "down",
-    "uptime": "36.01%",
+    "uptime": "35.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.23%",
-    "time": 364,
-    "timeDay": 57,
-    "timeWeek": 140,
-    "timeMonth": 193,
-    "timeYear": 186,
+    "uptimeYear": "3.41%",
+    "time": 362,
+    "timeDay": 103,
+    "timeWeek": 60,
+    "timeMonth": 178,
+    "timeYear": 185,
     "dailyMinutesDown": {
-      "2023-11-16": 983,
+      "2023-11-19": 980,
+      "2023-11-18": 1440,
+      "2023-11-17": 1440,
+      "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
@@ -394,16 +397,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/152.70.95.232.ico",
     "slug": "whoogle",
     "status": "up",
-    "uptime": "97.80%",
+    "uptime": "97.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.22%",
     "time": 730,
-    "timeDay": 851,
-    "timeWeek": 769,
-    "timeMonth": 758,
-    "timeYear": 733,
+    "timeDay": 717,
+    "timeWeek": 830,
+    "timeMonth": 772,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2023-09-28": 610,
       "2023-09-27": 1440,
@@ -421,8 +424,7 @@
       "2023-06-07": 1440,
       "2023-06-06": 376,
       "2023-03-16": 611,
-      "2023-03-15": 1310,
-      "2022-11-18": 21
+      "2023-03-15": 1310
     }
   },
   {
@@ -431,7 +433,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/s.100cc.fun.ico",
     "slug": "whoogle-cdn",
     "status": "down",
-    "uptime": "33.71%",
+    "uptime": "33.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -442,7 +444,10 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-16": 983,
+      "2023-11-19": 980,
+      "2023-11-18": 1440,
+      "2023-11-17": 1440,
+      "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
@@ -803,10 +808,7 @@
       "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
-      "2022-11-20": 1440,
-      "2022-11-19": 1440,
-      "2022-11-18": 1440,
-      "2022-11-17": 1440
+      "2022-11-20": 1440
     }
   },
   {
@@ -815,18 +817,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/so.100cc.fun.ico",
     "slug": "google-image",
     "status": "down",
-    "uptime": "32.11%",
+    "uptime": "31.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 814,
+    "time": 808,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-16": 983,
+      "2023-11-19": 980,
+      "2023-11-18": 1440,
+      "2023-11-17": 1440,
+      "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
@@ -1187,10 +1192,7 @@
       "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
-      "2022-11-20": 1440,
-      "2022-11-19": 1440,
-      "2022-11-18": 1440,
-      "2022-11-17": 1440
+      "2022-11-20": 1440
     }
   },
   {
@@ -1199,7 +1201,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/go.100cc.fun.ico",
     "slug": "google-image-cdn",
     "status": "down",
-    "uptime": "38.74%",
+    "uptime": "38.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1210,7 +1212,10 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-16": 983,
+      "2023-11-19": 980,
+      "2023-11-18": 1440,
+      "2023-11-17": 1440,
+      "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
@@ -1571,10 +1576,7 @@
       "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
-      "2022-11-20": 1440,
-      "2022-11-19": 1440,
-      "2022-11-18": 1440,
-      "2022-11-17": 1440
+      "2022-11-20": 1440
     }
   }
 ]
